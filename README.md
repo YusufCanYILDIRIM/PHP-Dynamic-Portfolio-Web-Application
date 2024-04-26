@@ -1,5 +1,14 @@
 # PHP-Dynamic-Portfolio-Web-Application
+Bu projede Instructor Hut youtube kanalından Portfolio projesidir.
 
+# Kullanılan Teknolojiler
+* PHP
+* HTML
+* CSS
+* JAVASCRİPT
+* MySQL
+
+# Resimler
 ![Ekran görüntüsü 2024-04-26 161552](https://github.com/YusufCanYILDIRIM/PHP-Dynamic-Portfolio-Web-Application/assets/112662037/58c45087-f42f-48d0-b026-2948fd445ff8)
 ![Ekran görüntüsü 2024-04-26 161715](https://github.com/YusufCanYILDIRIM/PHP-Dynamic-Portfolio-Web-Application/assets/112662037/3b1da484-2da2-403c-a74e-98e95b7fbb96)
 ![Ekran görüntüsü 2024-04-26 161704](https://github.com/YusufCanYILDIRIM/PHP-Dynamic-Portfolio-Web-Application/assets/112662037/a4c08c4f-594a-4ab2-9afc-9d5388f72bc5)
